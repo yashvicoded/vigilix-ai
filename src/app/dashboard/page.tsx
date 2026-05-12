@@ -157,7 +157,7 @@ function AvgScoreRing({ score }: { score: number }) {
       <div>
         <p className="text-2xl font-bold leading-none">{score}</p>
         <p className="text-[10px] text-muted-foreground uppercase tracking-wide mt-1">
-        
+    
         </p>
       </div>
     </div>
