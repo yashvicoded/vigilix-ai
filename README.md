@@ -20,13 +20,12 @@
 ## 🌐 Project Links
 
 * 🔗 **Live Application**
-  [https://dhruva-1.vercel.app](https://dhruva-1.vercel.app)
+  v[https://vigilix-ai.vercel.app](https://vigilix-ai.vercel.app/)
 
 * 📦 **GitHub Repository**
-  [https://github.com/Smith24298/Dhruva_1](https://github.com/Smith24298/Dhruva_1)
+  [https://github.com/yashvicoded/vigilix-ai.git](https://github.com/yashvicoded/vigilix-ai.git)
 
-* 🎥 **Demo Video**
-  [https://drive.google.com/drive/u/3/folders/1qN1wug7DRHcejm59HDSUbh-GaxzBmIXk](https://drive.google.com/drive/u/3/folders/1qN1wug7DRHcejm59HDSUbh-GaxzBmIXk)
+
 
 ---
 
